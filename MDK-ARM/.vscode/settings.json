@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "app_can.h": "c",
+        "bsp_can.h": "c",
+        "app_chassis_task.h": "c"
+    }
+}
